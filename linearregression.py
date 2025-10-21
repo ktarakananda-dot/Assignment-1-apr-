@@ -1,7 +1,19 @@
-# ============================================
-# Simple Linear Regression on Salary_Data.csv
-# ============================================
 
+------------------------------------------------------------
+Student Name -Konapala Tarakananda
+Roll No. - 2511AI41
+Subject - APR
+Submitted to - Dr.chandranath adak
+------------------------------------------------------------
+
+Dataset: salaries_data.csv
+
+
+Run this script directly:
+    
+------------------------------------------------------------
+
+"""
 # Step 1: Import required libraries
 import pandas as pd
 import numpy as np
@@ -56,3 +68,4 @@ plt.ylabel("Salary")
 plt.title("Simple Linear Regression (Test Set)")
 plt.legend()
 plt.show()
+
